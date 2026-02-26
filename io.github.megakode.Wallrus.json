@@ -45,7 +45,7 @@
                     "type": "git",
                     "url": "https://github.com/megakode/wallrus.git",
                     "tag": "1.1.0",
-                    "commit": "d17a8409c5007f61393d4b64e5121da69c32bb29"
+                    "commit": "5ca71b1455170b1fa20e13fef3f5cee2c458c90f"
                 },
                 "cargo-sources.json",
                 {
