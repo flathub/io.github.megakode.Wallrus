@@ -19,12 +19,6 @@
             "CARGO_HOME": "/run/build/wallrus/cargo"
         }
     },
-    "cleanup": [
-        "/include",
-        "/lib/pkgconfig",
-        "*.a",
-        "*.la"
-    ],
     "modules": [
         {
             "name": "wallrus",
